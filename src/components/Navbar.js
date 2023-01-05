@@ -1,6 +1,6 @@
 import React from 'react'
 import {FaBars, FaTimes} from 'react-icons/fa'
-// import logo from './images/logo.jpeg'
+import logo from './images/logo.jpeg'
 import './Navbar.css'
 
 
@@ -13,7 +13,7 @@ const Navbar = () => {
                     <img src={logo} alt='logo'/>
                 </a> */}
                 <div classname='hamburger'>
-                    <FaBars/>
+                    <FaBars size={30} style={{color: '#fffff'}}/>
                 </div>
                     <ul className='nav-menu'>
                         <li className='nav-item'>
