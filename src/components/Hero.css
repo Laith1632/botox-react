@@ -34,10 +34,12 @@
 .hero .content p:first-child {
     font-style: italic;
     font-size: 2.9rem;
+   
 }
 
 .hero .content p:nth-child(2) {
     font-size: 1.9rem;
+    margin-bottom: 1rem;
 }
 
 .hero .content p:nth-child(3) {
