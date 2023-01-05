@@ -1,12 +1,12 @@
 import React from 'react'
-// import lisa from './images/john-doe.png'
+import lisa from './images/about.jpg'
 import './About.css'
 
 const About = () => {
     return (
         <div className='about' id='about'>
             <div className='container'>
-                {/* <img src={lisa} alt='john' /> */}
+                <img src={lisa} alt='john' />
                 <div className='col-2'>
                     <h2>About</h2>
                     <span className='line'></span>
