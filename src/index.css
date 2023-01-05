@@ -1,12 +1,12 @@
 :root {
-  --primary-color:#5bb462;
+  --primary-color: #5bb462;
   --primary-dark: #4f9c55;
   --secondary-color: #ffea00;
-  --secondary-dark: #e3d002;
-  --overlay: rgb(0,0,0,.7);
+  --secondary-dark:#e3d002;
+  --overlay: rgba(0,0,0,.7);
 }
 
-*{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -28,15 +28,15 @@ code {
     monospace;
 }
 
-ul{
-  list-style: none;
+ul {
+  list-style-type: none;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
-.button{
+.button {
   padding: 17px 28px;
   font-size: 1.2rem;
   color: #fff;
@@ -53,3 +53,10 @@ a{
   border: 1px solid var(--primary-dark);
 }
 
+.line {
+  display: block;
+  width: 40px;
+  height: 3px;
+  margin: 5px auto;
+  background-color: var(--primary-color);
+}
