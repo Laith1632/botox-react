@@ -6,7 +6,7 @@
 }
 
 .about .container {
-    width: 1240px;
+    width: 2240px;
     margin: auto;
     display: grid;
     grid-template-columns: repeat(2, 1fr);

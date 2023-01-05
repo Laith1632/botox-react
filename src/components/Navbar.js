@@ -33,7 +33,7 @@ const closeMenu = () => setClick(false)
                         </li>
 
                         <li className='nav-item'>
-                            <a href='/'onClick={closeMenu}>Pricing</a>
+                            <a href='/'onClick={closeMenu}>Cost</a>
                         </li>
 
                     </ul>
