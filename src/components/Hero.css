@@ -1,3 +1,7 @@
+.firstname {
+    font-size: 1000rem;
+}
+
 .hero {
     background-color: var(--overlay);
     color: #fff;
@@ -29,7 +33,7 @@
 
 .hero .content p:first-child {
     font-style: italic;
-    font-size: .9rem;
+    font-size: 2.9rem;
 }
 
 .hero .content p:nth-child(2) {
@@ -45,6 +49,11 @@
 .hero .content p:nth-child(4) {
     font-size: 2.2rem;
     font-style: italic;
+}
+
+.hero .content p:nth-child(5) {
+    font-size: 1.5rem;
+    
 }
 
 .hero .button {
@@ -70,6 +79,3 @@
     }
 }
 
-.firstname {
-    font-size: 100rem;
-}

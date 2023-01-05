@@ -5,7 +5,7 @@ const Hero = () => {
     return (
         <div className='hero'>
             <div className='content'>
-                <p className='firstname'>Lisa Andrade</p>
+                <p >Lisa Andrade</p>
                 <p>Beautification and Medical Aesthetics</p>
                 <p>509-595-3154 (Text/Call)</p>
                 <p>Email: MedAsYou@yahoo.com</p>
