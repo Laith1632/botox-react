@@ -5,7 +5,7 @@ const Cost = () => {
     <div>
         <div>
 
-            hey
+         
 
 
 
