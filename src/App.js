@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
-import Cost from './components/Cost'
+import Pricing from './components/Pricing'
 import Footer from './components/Footer'
 
 
@@ -12,7 +12,7 @@ function App() {
       <Navbar/>
       <Hero/>
       <About/>
-      <Cost/>
+      <Pricing/>
       <Footer/>
      
     </div>
