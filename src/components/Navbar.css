@@ -33,10 +33,11 @@
 .header .navbar img {
     width: 150px;
     height: auto;
+    margin-top: 5%;
 }
 
 .header .nav-menu {
-    display: block;
+    display: flex;
 
 }
 
