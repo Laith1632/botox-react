@@ -10,6 +10,12 @@
     background-color: rgba(0,0,0,.9);
 }
 
+.logo{
+   position: absolute;
+    left: 1%;
+}
+
+
 .header .navbar {
     display: flex;
     justify-content: space-between;
@@ -25,12 +31,13 @@
 }
 
 .header .navbar img {
-    width: 250px;
+    width: 150px;
     height: auto;
 }
 
 .header .nav-menu {
-    display: flex;
+    display: block;
+
 }
 
 .header .nav-item {
@@ -45,6 +52,8 @@
 
 .hamburger {
     display: none;
+   
+   
 }
 
 
@@ -88,3 +97,4 @@
         width: 150px;
     }
 }
+
