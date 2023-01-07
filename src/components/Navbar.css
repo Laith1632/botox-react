@@ -20,7 +20,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1240px;
+    max-width: 2240px;
     margin: auto;
     height: 100%;
     padding: 0 1rem;
@@ -42,8 +42,9 @@
 }
 
 .header .nav-item {
-    padding: 1rem;
+    padding: 1.5rem;
     font-weight: 500;
+    font-size: 1.6rem;
 }
 
 .header .nav-item a:hover {
@@ -53,6 +54,7 @@
 
 .hamburger {
     display: none;
+    
    
    
 }
