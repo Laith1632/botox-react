@@ -18,10 +18,10 @@ const closeMenu = () => setClick(false)
                 {/* <a href='/' className='logo'>
                     <img src={logo} alt='logo'/>
                 </a> */}
-                <div classname='hamburger' onClick={handleClick}>
-                    {click ? (<FaTimes size={30} style={{color: '#ffffff'}}/>) :
-                    (<FaBars size={30} style={{color: '#ffffff'}}/> )}
-
+                <div className='hamburger' onClick={handleClick}>
+                    {click ? (<FaTimes size={40} style={{ color: '#ffffff' }} />)
+                        : (<FaBars size={40} style={{ color: '#ffffff' }} />)}
+                
                 </div>
                     <ul className={click ? "nav-menu active" : "nav-menu"}>
                         <li className='nav-item'>
