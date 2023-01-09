@@ -63,7 +63,22 @@
 }
 
 
-@media screen and (max-width:940px) {
+h1{
+    text-transform: uppercase;
+    font-size: 2.8rem;
+    font-family: 'Catamaran', sans-serif;
+    color: #ffffff;
+}
+   
+    
+
+
+
+
+
+
+
+@media screen and (max-width:1240px) {
     .header {
         max-width: 100%;
         background-color: rgba(0,0,0,.9);
@@ -102,10 +117,16 @@
     .header .navbar img {
         width: 150px;
     }
+
+    h1{
+        
+        display: none;
+        
+    }
 }
 
 
-@media screen and (min-width:941px){
+@media screen and (min-width:1241px){
 
     .hamburger {
         display: block;
@@ -120,5 +141,8 @@
         text-align: center;
         transition: .3s;
     }
+
+
+   
 
 }
