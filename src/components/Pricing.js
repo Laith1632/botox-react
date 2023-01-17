@@ -5,6 +5,8 @@ import './Pricing.css'
 const Pricing = () => {
   return (
 
+
+
 <div className='all-card-container'> 
    <div className='card-container'>
           <div className='product-title'>
@@ -13,20 +15,24 @@ const Pricing = () => {
           <div className='product-price'>
             <h3>$8/unit</h3>
           </div>
-          <div className='benafits-list'>
-          <ul >
-                        <li>
-                            <p>good skin</p>
-                        </li>
-                            <p>good health</p>
-                        <li>
-                            <p>gog goog </p>
-                        </li>
-                            <p>annananna</p>
-                        <li>
-                           <p>banananananan</p>
-                        </li>
-            </ul>
+          <div className='benefits-list'>
+
+          <div>
+            <h4 className='benefit-title'>Benefits</h4>
+          </div>
+          <ol className='benefit-list'>
+                       
+                       <li>
+                           <p>Smoothes the appearance of wrinkles in between the eyebrows, around the eyes, in the forehead, or around the mouth</p>
+                       </li>
+                       <li>
+                       <p>Blocks the signal from the nerve to muscles, causing the muscle to relax and preventing further wrinkling</p>
+                       </li>
+                          
+                       <li>
+                          <p>Short treatment time, fast recovery time, and noticeable results within two weeks</p>
+                       </li>
+           </ol>
           </div>
     
     
@@ -40,20 +46,24 @@ const Pricing = () => {
           <div className='product-price'>
             <h3>$520/ syringe</h3>
           </div>
-          <div className='benafits-list'>
-          <ul >
-                        <li>
-                            <p>good skin</p>
-                        </li>
-                            <p>good health</p>
-                        <li>
-                            <p>gog goog </p>
-                        </li>
-                            <p>annananna</p>
-                        <li>
-                           <p>banananananan</p>
-                        </li>
-            </ul>
+          <div className='benefits-list'>
+
+          <div>
+            <h4 className='benefit-title'>Benefits</h4>
+          </div>
+          <ol className='benefit-list'>
+                       
+                       <li>
+                           <p>Removes deep wrinkles and frown lines</p>
+                       </li>
+                       <li>
+                       <p>Hydrates the deeper layers of the skin</p>
+                       </li>
+                          
+                       <li>
+                          <p>Corrects jowls, vertical lip lines, mouth creases, and nasolabial folds (folds from the corner of the nose to the corners of the mouth)</p>
+                       </li>
+           </ol>
           </div>
     
     
@@ -62,25 +72,29 @@ const Pricing = () => {
 
     <div className='card-container'>
           <div className='product-title'>
-            <h2>Belotero Balance (lips)</h2>
+            <h2>Belotero Balance</h2>
           </div>
           <div className='product-price'>
             <h3>$335/syringe</h3>
           </div>
-          <div className='benafits-list'>
-          <ul >
-                        <li>
-                            <p>good skin</p>
-                        </li>
-                            <p>good health</p>
-                        <li>
-                            <p>gog goog </p>
-                        </li>
-                            <p>annananna</p>
-                        <li>
-                           <p>banananananan</p>
-                        </li>
-            </ul>
+          <div className='benefits-list'>
+
+          <div>
+            <h4 className='benefit-title'>Benefits</h4>
+          </div>
+          <ol className='benefit-list'>
+                       
+                       <li>
+                           <p>Under Eye bags </p>
+                       </li>
+                       <li>
+                       <p>Hollow cheeks</p>
+                       </li>
+                          
+                       <li>
+                          <p>Belotero has minimal side effects. It usually causes some swelling, tenderness, and redness. However, these side effects resolve within a few days and do not prevent you from returning to your routine activities.</p>
+                       </li>
+           </ol>
           </div>
     
     
@@ -95,20 +109,23 @@ const Pricing = () => {
           <div className='product-price'>
             <h3>$400/syringe</h3>
           </div>
-          <div className='benafits-list'>
-          <ul >
+          <div className='benefits-list'>
+          <div>
+            <h4 className='benefit-title'>Benefits</h4>
+          </div>
+          <ol className='benefit-list'>
+                       
                         <li>
-                            <p>good skin</p>
+                            <p>Removes fine lines and wrinkles</p>
                         </li>
-                            <p>good health</p>
                         <li>
-                            <p>gog goog </p>
+                        <p>The proprietary ingredients of Versa are designed to ensure well-balanced contours and all-around smoothness in the treatment area.</p>
                         </li>
-                            <p>annananna</p>
+                           
                         <li>
-                           <p>banananananan</p>
+                           <p>Can address moderate to severe wrinkles and creases, tightening your skin and giving it a more youthful look.</p>
                         </li>
-            </ul>
+            </ol>
           </div>
     
     
@@ -132,27 +149,3 @@ export default Pricing
 
 
 
-{/* <div className='wrapper'>
-         
-<div className='gridcontainer'>
-  <div className='container1'>
-   <p>Xeomin $8/unit </p>
-   <p>blahbalalhalhalhlah alhlahlhdslhal lhdalhdlhalhdla lhadhladljladj</p>
-  </div>
-  <div className='container2'>
-   <p>Juvederm Ulta $520/ syringe</p>
-   <p> blah blah bnandkcknsdkacndsknckdsanc</p>
-  </div>
-  <div className='container3'>
-   <p>Belotero Balance (lips) $335/syringe</p>
-   <p>andnacjncdjncjdsncjdsncjdsncdsjncdsjcnscn</p>
-  </div>
-  <div className='container4'>
-   <p>Revanesse Versa $400/syringe</p>
-   <p> sjdfvnjdfnvjfdnvjvnfdjvnfdjvnfdjvnfdjnvjdfnvvdfdnjvnfdjvnfdjvn</p>
-</div>
-  
-</div>
-</div>
-)
-} */}
