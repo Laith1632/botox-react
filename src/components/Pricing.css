@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     background-color: #f8f8f8;
+    padding: 20rem 2rem 10rem 2rem;
 }
 
 
@@ -23,4 +24,14 @@
 
 .benafits-list, .product-price, .product-title{
     margin: 10%;
+}
+
+
+
+@media screen and (max-width:1700px) {
+    .all-card-container {
+        grid-template-columns: 1fr;
+    }
+
+
 }
