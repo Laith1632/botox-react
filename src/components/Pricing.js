@@ -8,6 +8,7 @@ const Pricing = () => {
 
 
 <div className='all-card-container'> 
+
    <div className='card-container'>
           <div className='product-title'>
             <h2>Xeomin</h2>
