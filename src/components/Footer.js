@@ -7,17 +7,17 @@ const Footer = () => {
         <div className='container'>
             <ul>
                 <li className='nav-item'>
-                    <a href='/'>Home</a>
+                    <a href='#home'>Home</a>
 
                 </li>
                
                 <li className='nav-item'>
-                    <a href='/'>About</a>
+                    <a href='#about'>About</a>
 
                 </li>
 
                 <li className='nav-item'>
-                    <a href='/'>Pricing</a>
+                    <a href='#pricing'>Pricing</a>
 
                 </li>
             </ul>
