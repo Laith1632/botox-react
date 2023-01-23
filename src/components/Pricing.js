@@ -7,7 +7,7 @@ const Pricing = () => {
 
 
 
-<div className='all-card-container'> 
+<div className='all-card-container' id='pricing'> 
 
    <div className='card-container'>
           <div className='product-title'>
