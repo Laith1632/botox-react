@@ -10,8 +10,18 @@ const About = () => {
                 <div className='col-2'>
                     <h2>About Lisa</h2>
                     <span className='line'></span>
-                    <p className='about-font'>At Medically Aesthetically You, we're all about family, as a mother of four now grown adults im well experinced in the importance of family. I have also been a full time registered nurse (RN) for 25+ years in multiple realms of the medical field.  </p>
-                    <p>I very much enjoy caring and assisting others. I have transitioned to what I have found as my new passion in helping people with really finding their inner beauty and feeling better about themselves mentally and physically.</p>
+                    <p className='about-font'>Lisa Andrade is a Registered Nurse, with additional certifications in
+Rehabilitation Nursing. She earned her RN degree in 1999, however has
+worked in the medical field in many capacities since 1989, including as
+a CNA, and LPN. She earned her CRRN in 2006, and has continued
+working on an Acute Rehabilitation Unit as the Charge Nurse. She then
+completed the past 4years as the Rehab Intake Coordinator.  </p>
+                    <p>She earned a Certification in Legal Nurse Consultation in June, 2015.
+She has participated in teaching events within the community at Job
+fairs, fair booths, and preceptor to nursing students and new nurses.
+She provides transfer training throughout the hospital for ongoing
+education and safety prevention. She is a member of ARN (Association
+of Rehabilitation Nurse).</p>
                     {/* <button className='button'>Explore More</button> */}
                 </div>
             </div>

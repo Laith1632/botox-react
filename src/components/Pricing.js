@@ -14,7 +14,7 @@ const Pricing = () => {
             <h2>Xeomin</h2>
           </div>
           <div className='product-price'>
-            <h3>$8/unit</h3>
+            <h3>$14/unit</h3>
           </div>
           <div className='benefits-list'>
 
@@ -45,7 +45,7 @@ const Pricing = () => {
             <h2>Juvederm Ulta</h2>
           </div>
           <div className='product-price'>
-            <h3>$520/ syringe</h3>
+            <h3>$700/ syringe</h3>
           </div>
           <div className='benefits-list'>
 
@@ -76,7 +76,7 @@ const Pricing = () => {
             <h2>Belotero Balance</h2>
           </div>
           <div className='product-price'>
-            <h3>$335/syringe</h3>
+            <h3>$535/syringe</h3>
           </div>
           <div className='benefits-list'>
 
@@ -108,7 +108,7 @@ const Pricing = () => {
             <h2>Revanesse Versa</h2>
           </div>
           <div className='product-price'>
-            <h3>$400/syringe</h3>
+            <h3>$600/syringe</h3>
           </div>
           <div className='benefits-list'>
           <div>
