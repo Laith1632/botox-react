@@ -21,7 +21,7 @@ She has participated in teaching events within the community at Job
 fairs, fair booths, and preceptor to nursing students and new nurses.
 She provides transfer training throughout the hospital for ongoing
 education and safety prevention. She is a member of ARN (Association
-of Rehabilitation Nurse).</p>
+of Rehabilitation Nurse)</p>
                     {/* <button className='button'>Explore More</button> */}
                 </div>
             </div>
