@@ -23,6 +23,11 @@ She provides transfer training throughout the hospital for ongoing
 education and safety prevention. She is a member of ARN (Association
 of Rehabilitation Nurse).</p>
                     {/* <button className='button'>Explore More</button> */}
+                    <h2>About Gregory</h2>
+                    <span className='line'></span>
+                    <p className='about-font'>
+                    Dr. Gregory Sainnoval is the medical director and has two decades of surgical experience. He is well liked by his patients and treats all patients with respect. Great knowledge of anatomy and potential complications and ways to prevent them in the first place.
+                    </p>
                 </div>
             </div>
         </div>
